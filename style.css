@@ -274,13 +274,34 @@ footer p{
   .intro-container{
     flex-direction: column;
     gap: 1.5rem;
+    width: 95dvw;
   }
 
   .photo{
     width: 15rem;
   }
 
+  .details{
+    padding: 3% 5%;
+  }
+
+  .name-text{
+    font-size: 32px;
+  }
+
+  .designation{
+    font-size: 16px;
+  }
+
   .contact{
     flex-direction: column;
+  }
+
+  .r-i-text{
+    font-size: 14px;
+  }
+
+  td{
+    font-size: 12px;
   }
 }
