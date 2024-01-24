@@ -643,4 +643,20 @@ footer p{
     font-size: 20px;
   }
 
+  footer{
+    font-size: 12px;
+  }
+
+  footer p:nth-child(2){
+    padding: 0 3%;
+    border-left: 1px solid rgba(255, 255, 255, 0.432);
+    border-right: 1px solid rgba(255, 255, 255, 0.432);
+  }
+
+  .btn-sm{
+    
+    /* width: 40%; */
+    font-size: 12px;
+  }
+
 }
