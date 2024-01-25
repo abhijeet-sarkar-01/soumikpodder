@@ -511,6 +511,20 @@ footer p{
   margin: 0;
 }
 
+.abhijeet{
+  font-family: "Raleway", sans-serif;
+  text-decoration: none;
+  color: #ADEFD1;
+  transition: 0.3s all ease-in-out;
+  padding: 2px;
+}
+
+.abhijeet:hover{
+  background-color: #adefd1;
+  color: black;
+  border-radius: 5px;
+}
+
 /* Dark Mode */
 
 .primary-dark{
