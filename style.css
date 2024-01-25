@@ -1,3 +1,8 @@
+::selection{
+  background-color: #005730;
+  color: whitesmoke;
+}
+
 *{
   box-sizing: border-box;
 }
@@ -178,9 +183,7 @@ body, html{
   /* display: inline-block; */
   margin: 4% 0 3% 0;
   padding: 0.5% 1%;
-  background-color: #adefd1;
-  border-bottom: 5px solid #005730;
-  border-right: 5px solid #005730;
+  background-color: #adefd1;;
   border-radius: 10px;
 }
 
