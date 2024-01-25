@@ -453,7 +453,7 @@ th[scope='row'] {
 footer{
   height: 3rem;
   background-color: #00203F;
-  padding: 0 6%;
+  padding: 0 10%;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -510,6 +510,10 @@ footer{
 footer p{
   margin: 0;
 }
+
+/* .soumiklinkedin{
+  padding: 0 !important;
+} */
 
 .abhijeet{
   font-family: "Raleway", sans-serif;
@@ -662,10 +666,11 @@ footer p{
 
   footer{
     font-size: 12px;
+    padding: 0 7%;
   }
 
   footer p:nth-child(2){
-    padding: 0 3%;
+    padding: 0 2%;
     border-left: 1px solid rgba(255, 255, 255, 0.432);
     border-right: 1px solid rgba(255, 255, 255, 0.432);
   }
